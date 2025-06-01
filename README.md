@@ -2,3 +2,5 @@ The Redfin housing data used in this project was publicly downloaded following R
 
 ChiVes NDVI Data: https://chichives.com/data
 Chicago Park Data: https://data.cityofchicago.org/Parks-Recreation/Parks-Chicago-Park-District-Park-Boundaries-curren/ej32-qgdr
+
+This repository also includes an .ipynb notebook containing code for training and evaluating multiple machine-learning models to predict housing prices. Model performance metrics are compiled and compared in a summary table for easy interpretation.
